@@ -1,0 +1,41 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* mobile_crm
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+"Language: zh_CN\n"
+
+#. module: mobile_crm
+#. odoo-python
+#: code:addons/mobile_crm/models/mobile_api.py:0
+#, python-format
+msgid "My opportunities"
+msgstr "我的商机"
+
+#. module: mobile_crm
+#. odoo-python
+#: code:addons/mobile_crm/models/mobile_api.py:0
+#, python-format
+msgid "Follow up"
+msgstr "待跟进"
+
+#. module: mobile_crm
+#. odoo-python
+#: code:addons/mobile_crm/models/mobile_api.py:0
+#, python-format
+msgid "Team pipeline"
+msgstr "团队销售漏斗"
+
+#. module: mobile_crm
+#. odoo-python
+#: code:addons/mobile_crm/models/mobile_api.py:0
+#, python-format
+msgid "Opportunities"
+msgstr "商机"
