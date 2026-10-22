@@ -1,0 +1,41 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* mobile_crm
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 20.0\n"
+"Report-Msgid-Bugs-To: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+"Language: fr_FR\n"
+
+#. module: mobile_crm
+#. odoo-python
+#: code:addons/mobile_crm/models/mobile_api.py:0
+#, python-format
+msgid "My opportunities"
+msgstr "Mes opportunités"
+
+#. module: mobile_crm
+#. odoo-python
+#: code:addons/mobile_crm/models/mobile_api.py:0
+#, python-format
+msgid "Follow up"
+msgstr "À relancer"
+
+#. module: mobile_crm
+#. odoo-python
+#: code:addons/mobile_crm/models/mobile_api.py:0
+#, python-format
+msgid "Team pipeline"
+msgstr "Pipeline de l'équipe"
+
+#. module: mobile_crm
+#. odoo-python
+#: code:addons/mobile_crm/models/mobile_api.py:0
+#, python-format
+msgid "Opportunities"
+msgstr "Opportunités"
